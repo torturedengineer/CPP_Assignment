@@ -1,14 +1,3 @@
-'''
-Lab 7: ADVANCED PYTHON
-Activity 1 : LISAN-AL-GAIB (Dune Reference)
-Author : Sabyasachi Samantaray
-
-Here we will be dealing only with 2D data to aid visualisation
-
-In this activity, your aim will be the following.
-1) Implement the kmeans algorithm completely and correctly.
-2) Implement all TODOs without using any loops
-'''
 
 ### TODO 1: Importing the necessary libraries - numpy, matplotlib and time
 ### This TODO is already done
